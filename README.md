@@ -2,6 +2,10 @@ https://github.com/qwertymodo/foo_input_msu
 
 **All credit goes to qwertymodo! I just tweaked the implementation a little to allow for x64 compilation!**
 
+# Installation
+
+* Put foo_input_msu.dll in $FOOBAR_HOME\components\x64 (usually: C:\Program Files\foobar2000\components\x64)
+
 # Building from source
 
 * Install Microsoft Visual Studio Community 2022 (64-bit)

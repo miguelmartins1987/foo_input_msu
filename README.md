@@ -5,7 +5,7 @@ https://github.com/qwertymodo/foo_input_msu
 # Building from source
 
 * Install Microsoft Visual Studio Community 2022 (64-bit)
-* Download the latest foobar2000 SDK and extract it to C:\foobar200sdk
+* Download the latest [foobar2000 SDK](http://www.foobar2000.org/SDK) and extract it to C:\foobar200sdk
 * Check out this repository into its own folder, for instance: C:\foo_input_msu
 
 ![image](https://github.com/miguelmartins1987/foo_input_msu/assets/232489/9d12d53e-e6cf-4890-9535-ff7bfe4d6a18)

@@ -1,6 +1,6 @@
 https://github.com/qwertymodo/foo_input_msu
 
-**All credit goes to qwertymodo! I just tweaked the implementation a little to allow for x64 compilation!**
+**All credit goes to qwertymodo! I just tweaked the implementation a little to allow for x64 compilation under Microsoft Visual Studio Community 2022 (64-bit)!**
 
 # Installation
 

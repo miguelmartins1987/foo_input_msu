@@ -26,4 +26,4 @@ It should look something like this:
 
 ![image](https://github.com/miguelmartins1987/foo_input_msu/assets/232489/a55cc9ee-5a2e-4993-a62d-db530fb85bf3)
 
-* Build the solution
+* Select the Release|x64 configuration and build the solution

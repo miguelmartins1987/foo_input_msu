@@ -4,7 +4,7 @@ https://github.com/qwertymodo/foo_input_msu
 
 # Installation
 
-* Put foo_input_msu.dll in $FOOBAR_HOME\components\x64 (usually: C:\Program Files\foobar2000\components\x64)
+* Put foo_input_msu.dll in $FOOBAR_HOME\components (usually: C:\Program Files\foobar2000\components)
 
 # Building from source
 
